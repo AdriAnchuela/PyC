@@ -1,0 +1,2 @@
+%% DESCONEXIÓN DE ROS
+rosshutdown;
